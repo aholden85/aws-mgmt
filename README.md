@@ -4,7 +4,10 @@ Tools, information, and other snippets that have made working with AWS easier fo
 ## AWS Regions
 I have found it useful to use dictionaries, maps, arrays, and other structures holding relevant region information, particularly the AWS-published abbreviations for regions. Below is a compiled table, as well as data structures in Powershell and Python, containing this information for easy reference.
 
-All of these region names, codes, and abbreviations have been collated from [AWS service endpoints][AWSAllRegions], [AWS GovCloud (US) service endpoints][AWSGovRegions], and [Understanding your AWS billing and usage reports for Amazon S3][AWSAbbreviations].
+All of these region names, codes, and abbreviations have been collated from the following resources:
+* [AWS service endpoints][AWSAllRegions],
+* [AWS GovCloud (US) service endpoints][AWSGovRegions], and
+* [Understanding your AWS billing and usage reports for Amazon S3][AWSAbbreviations].
 
 All information not explicitly covered within these resources comes from inference, such as the abbreviations for the Osaka, Milan, and China regions.
 
