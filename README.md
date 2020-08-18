@@ -9,6 +9,10 @@ All of these region names, codes, and abbreviations have been collated from [AWS
 All information not explicitly covered within these resources comes from inference, such as the abbreviations for the Osaka, Milan, and China regions.
 
 ### Table
+<details>
+<summary>Table</summary>
+<p>
+	
 | Region Name | Code | Abbreviation |
 | ----------- | ---- | ------------ |
 | US East (Ohio) | us-east-2 | USE2 |
@@ -36,6 +40,8 @@ All information not explicitly covered within these resources comes from inferen
 | South America (São Paulo) | sa-east-1 | SAE1 |
 | AWS GovCloud (US-West) | us-gov-west-1 | UGW1 |
 | AWS GovCloud (US-East) | us-gov-east-1 | UGE1 |
+</p>
+</details>
 
 ### Powershell
 <details>
