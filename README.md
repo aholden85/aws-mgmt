@@ -424,7 +424,7 @@ Remove-AppStreamProfile `
 
 #### Python
 ##### Script File
-[RemoveremoveAppStreamProfile.py](scripts/removeAppStreamProfile.py)
+[removeAppStreamProfile.py](scripts/removeAppStreamProfile.py)
 
 This script contains two functions:
 ###### getAppStreamUserHash
