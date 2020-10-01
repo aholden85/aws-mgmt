@@ -369,6 +369,7 @@ From here, you can navigate to `Windows/v<version_number>/<operating_system>/` a
 #### Powershell
 ##### Script File
 [Remove-AppStreamProfile.ps1](scripts/Remove-AppStreamProfile.ps1)
+
 This script contains two functions:
 ###### Get-AppStreamUserHash
 This function accepts an array of User Principal Names (usernames/logins) and returns an array of dictionaries containing the original UPN, and the SHA256-hashed UPN in the following format:
@@ -424,6 +425,7 @@ Remove-AppStreamProfile `
 #### Python
 ##### Script File
 [RemoveremoveAppStreamProfile.py](scripts/removeAppStreamProfile.py)
+
 This script contains two functions:
 ###### getAppStreamUserHash
 This function accepts an array of User Principal Names (usernames/logins) and returns an array of dictionaries containing the original UPN, and the SHA256-hashed UPN in the following format:
